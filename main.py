@@ -3,7 +3,7 @@ import time
 from bs4 import BeautifulSoup
 
 # توکن و آیدی کانال
-BOT_TOKEN = "7838503399:AAFkfktShHKS8-sun8WvM2Xi1Bnxpe2i9Vk"
+BOT_TOKEN = ""
 CHANNEL_ID = "@malacointt"
 
 # URL سایت موردنظر
